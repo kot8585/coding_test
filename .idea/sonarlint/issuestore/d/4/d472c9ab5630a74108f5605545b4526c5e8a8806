@@ -1,0 +1,8 @@
+
+6
+java:S1659" Declare "rt" on a separate line.(ç…äİ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ïµ/
+1
+java:S3626"Remove this redundant jump.(ûÁİ…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¤øø

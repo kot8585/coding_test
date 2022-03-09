@@ -1,0 +1,13 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "list".(ÄËì‘øÿÿÿÿ
+S
+java:S1854	"8Remove this useless assignment to local variable "main".(²ÄˆÝÿÿÿÿÿ
+D
+java:S1481	")Remove this unused "main" local variable.(²ÄˆÝÿÿÿÿÿ
+D
+java:S1481")Remove this unused "list" local variable.(ÄËì‘øÿÿÿÿ
+o
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ø·Õæ
+Y
+java:S1596">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(ÄËì‘øÿÿÿÿ
