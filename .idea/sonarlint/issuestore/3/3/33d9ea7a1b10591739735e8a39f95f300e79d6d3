@@ -1,8 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(²Ÿ²£øÿÿÿÿ8½´ˆ“õ/
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¥³˜
-H
-java:S1135"2Complete the task associated to this TODO comment.(ÃûƒØ
-S
-java:S1197"8Move the array designator from the variable to the type.(äíî·úÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î“¿ú
